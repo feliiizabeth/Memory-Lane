@@ -1,4 +1,4 @@
-[Home](../../../README.md) > [Technology Leadership: Path to CIO](Course-README.md) > [Leveraging New Technology](Module-1-README.md) > Keeping Up With Technology Trends
+[Home](../../../README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > [Leveraging New Technology](./Module-1-README.md) > Keeping Up With Technology Trends
 
 # Keeping Up With Technology Trends
 Video will discuss **weak** and **strong** signals of tech trends that tech leaders must keep an eye on.

@@ -6,5 +6,5 @@
 - Needs of an organization and skills & expectations of a tech leader.
 
 ## Modules
-1. [Leveraging New Technology](Module-1-README.md)
+1. [Leveraging New Technology](Module-1/Module-1-README.md)
 2. 
