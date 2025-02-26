@@ -1,4 +1,4 @@
-[Home](../../../README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > Leveraging New Technology
+[Home](../../../README.md) > [Technology Leadership: Path to CIO](Course-README.md) > Leveraging New Technology
 # Leveraging New Technology
 **Speaker**: Professor Sanjay Macwan
 
