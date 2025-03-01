@@ -1,4 +1,8 @@
-[Home](../../../README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > Leveraging New Technology
+---
+title: "Leveraging New Technology"
+---
+
+[Home](../../../README.md) > [Post-Graduation](../../Post-Grad-README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > _Leveraging New Technology_
 
 # Leveraging New Technology
 
@@ -12,4 +16,4 @@
 ## Video Memos
 
 1. [Keeping Up With Technology Trends](./Video-1-Memo.md)
-2.
+2. Coming Soon...

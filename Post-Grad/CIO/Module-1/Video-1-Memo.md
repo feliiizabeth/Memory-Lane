@@ -1,4 +1,7 @@
-[Home](../../../README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > [Leveraging New Technology](./Module-1-README.md) > Keeping Up With Technology Trends
+---
+title: "Keeping Up With Technology Trends"
+---
+[Home](../../../README.md) > [Post-Graduation](../../Post-Grad-README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > [Leveraging New Technology](./Module-1-README.md) > *Keeping Up With Technology Trends*
 
 # Keeping Up With Technology Trends
 
