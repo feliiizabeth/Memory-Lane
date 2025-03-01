@@ -1,1 +1,17 @@
+# Theme by Michael Rose - https://github.com/mmistakes/jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+# Accessible via {( site.myvariable )}.
+lang: en-US
+title: Memory Lane
+email: feliiizabeth@gmail.com
+description: "A collection of my NYU memos written in Markdown with Obsidian"
+# baseurl: ""
+url: "https://feliiizabeth.github.io/"
+author:
+  name: Elizabeth Vazquez
+github_username: feliiizabeth
+logo: "./ml-logo.png"
