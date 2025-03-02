@@ -8,7 +8,7 @@ sub_title: Take a walk down Memory Lane
 image:
 introduction: |
   A collection of memos written from my time at New York University Tandon School of Engineering.
-  
+
   These memos are gathered into books and stacked to pave the way for Memory Lane.
 
 actions:

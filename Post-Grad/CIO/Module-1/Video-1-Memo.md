@@ -9,21 +9,23 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 
 | Note: _Organization_, _company_, and _enterprise_ are used interchangeably by the video speaker.
 
-> [!NOTE] Strong Signals
+> [!NOTE]+ Strong Signals
 >
 > Done **at scale** by a group or organizations;
+>
 > Act as **proof points** for the emerging technology
 
-> [!NOTE] Weak Signals
+> [!NOTE]+ Weak Signals
 >
 > In quantity, they may **provide clarity** of emerging technology;
+>
 > **Show ways to participate** in the evolution of an emerging technology
 
-> [!NOTE] The Software as a Service (SaaS) Model
+> [!NOTE]+ The Software as a Service (SaaS) Model
 >
 > A business model that **allows users to access cloud-based software through a subscription** (e.g. Email, Calendaring, Office tools, Communication tools).
 
-> [!NOTE] Web 2.0
+> [!NOTE]+ Web 2.0
 >
 > The **second stage of development of the World Wide Web**.
 > A stage where we transition from _static web pages to dynamic or user-generated content_.
@@ -33,7 +35,7 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 
 ### Strong Signals
 
-> [!EXAMPLE] Netflix using Amazon Web Services (AWS)
+> [!EXAMPLE]+ Netflix using Amazon Web Services (AWS)
 >
 > As opposed to the mail delivery of DVDs, Netflix built their real-time video streaming platform betting on the environment of AWS to be the underlying public cloud infrastructure to deliver their streaming experience.
 >
@@ -41,7 +43,7 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 
 ### Weak Signals
 
-> [!EXAMPLE] The Software as a Service (SaaS) Model
+> [!EXAMPLE]+ The Software as a Service (SaaS) Model
 >
 > Organizations were late to adopt SaaS. The weak signal arose from the consumer space.
 >
@@ -50,7 +52,7 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 >
 > Now many organizations use the SaaS model to deliver their solutions to customers.
 
-> [!EXAMPLE] YouTube
+> [!EXAMPLE]+ YouTube
 >
 > Many were doubtful about YouTube's video formats (i.e. short and with no context videos to be consumed). But weak signals can become stronger over time.
 >
@@ -58,7 +60,7 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 >
 > Proliferated into the current video-based economy we know today.
 
-> [!EXAMPLE] Blackberry
+> [!EXAMPLE]+ Blackberry
 >
 > One of the earliest smart devices with a tactile interface that was preferred for business purposes.
 >
@@ -97,11 +99,11 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 
 - When you teach you open opportunities of interaction. Learn from interactions with students of different backgrounds, expertise, interests, and perspectives.
 
-> [!EXAMPLE] Location Based Services
+> [!EXAMPLE]+ Location Based Services
 >
 > One of the speaker's students proposed an online dating platform that relied on user locations. The location-based idea is now used in daily life.
 
-> [!EXAMPLE] Remote Health
+> [!EXAMPLE]+ Remote Health
 >
 > One of the speaker's students wanted to track the movements of his elderly parents.
 >
