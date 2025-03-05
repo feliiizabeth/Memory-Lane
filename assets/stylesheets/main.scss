@@ -1,0 +1,155 @@
+---
+---
+
+@charset "utf-8";
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+:root {
+  --max-width: 1000px;
+}
+
+/* Obsidian Callouts ======================================================== */
+// Basic callout
+.callout {
+  padding: 1rem 2rem 1rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-style: normal;
+  border-left: 1px solid #000000;
+}
+
+// Callout type color schemes
+.callout.info {
+  background-color: #e1e9f5;
+  border-left-color: #5b87a3;
+  color: #3a5a74;
+}
+.callout.warning,
+.callout.caution,
+.callout.attention {
+  background-color: #f8d3a4;
+  border-left-color: #d67b28;
+  color: #6e491a;
+}
+.callout.success,
+.callout.check,
+.callout.done {
+  background-color: #d4f0d1;
+  border-left-color: #4b8b3b;
+  color: #2a5a36;
+}
+.callout.failure,
+.callout.fail,
+.callout.missing {
+  background-color: #f5c2b6;
+  border-left-color: #d84b3c;
+  color: #9c3530;
+}
+.callout.danger,
+.callout.error {
+  background-color: #f2b3b0;
+  border-left-color: #d64c3c;
+  color: #9a3534;
+}
+.callout.bug {
+  background-color: #f0b4a9;
+  border-left-color: #c74c3d;
+  color: #9e2d27;
+}
+.callout.note {
+  background-color: #d1e3f5;
+  border-left-color: #4c6e91;
+  color: #2a3a55;
+}
+.callout.abstract,
+.callout.summary,
+.callout.tldr {
+  background-color: #d4e8d3;
+  border-left-color: #4a9d6c;
+  color: #2b5a34;
+}
+.callout.example {
+  background-color: #e3d1e6;
+  border-left-color: #8e5a8b;
+  color: #57365c;
+}
+.callout.tip,
+.callout.hint,
+.callout.important {
+  background-color: #d4e6f9;
+  border-left-color: #6d9ddb;
+  color: #2b4c6c;
+}
+.callout.question,
+.callout.help,
+.callout.faq {
+  background-color: #fff4d1;
+  border-left-color: #f1d66a;
+  color: #6f5a22;
+}
+.callout.todo {
+  background-color: #d0e1f1;
+  border-left-color: #4d7ea8;
+  color: #2c4054;
+}
+.callout.quote,
+.callout.cite {
+  background-color: #e2e2e2;
+  border-left-color: #7d7d7d;
+  color: #4a4a4a;
+}
+
+// Basic callout header
+.callout-header {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0 0.5rem 0;
+  gap: 5px;
+}
+
+// Collapsible callouts have a clickable header with a hover effect
+.collapsible-callout-header {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.collapsible-callout-header:hover {
+  color: #00838a;
+}
+
+// Reduce margin between callout header and content
+p:has(div.callout-header) {
+  margin-bottom: 1rem;
+}
+
+// Callout arrow toggles smoothly
+.callout-arrow {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  transition: transform 0.3s ease;
+}
+
+// Emphasize callout title (use h4 font size)
+.callout-title {
+  @include fluid-type($min-vw, $max-vw, $h4-min, $h4-max);
+  font-weight: bold;
+}
+
+// Collapsible callouts have its content shown or hidden
+.callout-content {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease;
+  padding-bottom: 0.5rem;
+}
+
+.callout-content[data-state="open"] {
+  max-height: var(--max-width);
+  opacity: 1;
+}
