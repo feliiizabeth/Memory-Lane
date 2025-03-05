@@ -2,7 +2,7 @@
 title: "Leveraging New Technology"
 ---
 
-[Home](../../../README.md) > [Post-Graduation](../../Post-Grad-README.md) > [Technology Leadership: Path to CIO](../Course-README.md) > _Leveraging New Technology_
+[Home](../../../index.md) > [Post-Graduation](../../index.md) > [Technology Leadership: Path to CIO](../index.md) > _Leveraging New Technology_
 
 # Leveraging New Technology
 

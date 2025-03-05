@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-permalink: /index.html
+permalink: /
 title: Memory Lane
 alt_title:
 sub_title: Take a walk down Memory Lane
@@ -26,7 +26,7 @@ actions:
 - [Sophomore Year](/)
 - [Junior Year](/)
 - [Senior Year](/)
-- [Post-Graduation](Post-Grad/Post-Grad-README.md)
+- [Post-Graduation](Post-Grad/index.md)
 
 ### Credits
 

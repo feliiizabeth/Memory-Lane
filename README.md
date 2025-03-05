@@ -8,7 +8,7 @@ A collection of my New York University memos written in Markdown with [Obsidian]
 - [Sophomore Year](/)
 - [Junior Year](/)
 - [Senior Year](/)
-- [Post-Graduation](Post-Grad/Post-Grad-README.md)
+- [Post-Graduation](Post-Grad/index.md)
 
 ### Credits
 

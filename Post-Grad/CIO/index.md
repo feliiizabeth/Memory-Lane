@@ -2,7 +2,7 @@
 title: "Technology Leadership: Path to CIO"
 ---
 
-[Home](../../README.md) > [Post-Graduation](../Post-Grad-README.md) > _Technology Leadership: Path to CIO_
+[Home](../../index.md) > [Post-Graduation](../index.md) > _Technology Leadership: Path to CIO_
 
 ## Topics Explored
 
@@ -12,5 +12,5 @@ title: "Technology Leadership: Path to CIO"
 
 ## Modules
 
-1. [Leveraging New Technology](Module-1/Module-1-README.md)
+1. [Leveraging New Technology](Module-1/index.md)
 2. Coming Soon...
