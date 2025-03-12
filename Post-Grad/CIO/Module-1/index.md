@@ -4,8 +4,6 @@ title: "Leveraging New Technology"
 
 [Home](../../../index.md) > [Post-Graduation](../../index.md) > [Technology Leadership: Path to CIO](../index.md) > _Leveraging New Technology_
 
-# Leveraging New Technology
-
 **Speaker**: Professor Sanjay Macwan
 
 ## Module Overview
@@ -16,4 +14,7 @@ title: "Leveraging New Technology"
 ## Video Memos
 
 1. [Keeping Up With Technology Trends](./Video-1-Memo.md)
-2. Coming Soon...
+2. [Timing Is Everything](./Video-2-Memo.md)
+3. Making the Case for Technology
+4. Disrupt or Be Disrupted
+5. Emerging Technology: The Right Moves with Artificial Intelligence (AI)

@@ -1,9 +1,8 @@
 ---
 title: "Keeping Up With Technology Trends"
 ---
-[Home](../../../index.md) > [Post-Graduation](../../index.md) > [Technology Leadership: Path to CIO](../index.md) > [Leveraging New Technology](./index.md) > *Keeping Up With Technology Trends*
 
-# Keeping Up With Technology Trends
+[Home](../../../index.md) > [Post-Graduation](../../index.md) > [Technology Leadership: Path to CIO](../index.md) > [Leveraging New Technology](./index.md) > _Keeping Up With Technology Trends_
 
 Video will discuss **weak** and **strong** signals of tech trends that tech leaders must keep an eye on.
 
@@ -11,15 +10,13 @@ Video will discuss **weak** and **strong** signals of tech trends that tech lead
 
 > [!NOTE]+ Strong Signals
 >
-> Done **at scale** by a group or organizations;
->
-> Act as **proof points** for the emerging technology
+> - Done **at scale** by a group or organizations;
+> - Act as **proof points** for the emerging technology
 
 > [!NOTE]+ Weak Signals
 >
-> In quantity, they may **provide clarity** of emerging technology;
->
-> **Show ways to participate** in the evolution of an emerging technology
+> - In quantity, they may **provide clarity** of emerging technology;
+> - **Show ways to participate** in the evolution of an emerging technology
 
 > [!NOTE]+ The Software as a Service (SaaS) Model
 >
