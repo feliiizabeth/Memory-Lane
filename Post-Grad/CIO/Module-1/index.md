@@ -18,3 +18,13 @@ title: "Leveraging New Technology"
 3. [Making the Case for Technology](./Video-3-Memo.md)
 4. [Disrupt or Be Disrupted](./Video-4-Memo.md)
 5. [The Right Moves with Artificial Intelligence](./Video-5-Memo.md)
+
+## Key Takeaways
+
+- Keep up with technology trends.
+- Understand strong and weak signals.
+- Understand when it's too early or too late to adopt an emerging technology.
+- Know to make a case for emerging technology investments.
+  - Stakeholders need to understand why an investment is necessary.
+  - Tailor the case for different stakeholders.
+- Learn forward about emerging technologies to understand what worked best and make improvements.
