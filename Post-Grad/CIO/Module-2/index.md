@@ -15,7 +15,7 @@ title: Organizing for IT Success
 ## Video Memos
 
 1. [Employee Expectations](./Video-1-Memo.md)
-2. Fully Centralized Models
+2. [Fully Centralized Models](./Video-2-Memo.md)
 3. Decentralized IT Model
 4. Hybrid IT Model
 5. A Practical Example: The Technology Council
