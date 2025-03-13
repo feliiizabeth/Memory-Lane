@@ -14,7 +14,7 @@ Video will discuss **employee expectations** and what tech leaders should do to 
 
 CIOs must understand that different functional teams have different expectations for technologies and tools.
 
-## The Factors That Help Manage Employees' Expectations
+## Factors That Help Manage Employees' Expectations
 
 - Impact of decisions on the organization
   - Certain tools and technologies are necessary for everyone (e.g. collaboration tools/stack).
@@ -34,8 +34,8 @@ CIOs must understand that different functional teams have different expectations
 
 ### CIOs must...
 
-- utilize employees' knowledge to design work programs to connect them with the best tech.
-- consider the varied expertise and needs of employees working in different functional teams.
-- know that employees change tech at their different levels of growth in the organization.
-- understand how different employees use tech and how to replicate those experiences.
-- understand the employee's different workflows.
+- Utilize employees' knowledge to design work programs to connect them with the best tech.
+- Consider the varied expertise and needs of employees working in different functional teams.
+- Know that employees change tech at their different levels of growth in the organization.
+- Understand how different employees use tech and how to replicate those experiences.
+- Understand the employee's different workflows.
