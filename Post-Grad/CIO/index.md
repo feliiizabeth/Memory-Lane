@@ -13,4 +13,8 @@ title: "Technology Leadership: Path to CIO"
 ## Modules
 
 1. [Leveraging New Technology](Module-1/index.md)
-2. Coming Soon...
+2. [Organizing for IT Success](Module-2/index.md)
+3. [Enabling a Culture of Innovation]
+4. [The Business Leader in the C-Suite]
+5. [Digital Business Transformation]
+6. [Entrepreneurship and "Intrapreneurship"]
