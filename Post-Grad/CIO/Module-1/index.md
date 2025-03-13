@@ -17,4 +17,4 @@ title: "Leveraging New Technology"
 2. [Timing Is Everything](./Video-2-Memo.md)
 3. [Making the Case for Technology](./Video-3-Memo.md)
 4. [Disrupt or Be Disrupted](./Video-4-Memo.md)
-5. Emerging Technology: The Right Moves with Artificial Intelligence (AI)
+5. [The Right Moves with Artificial Intelligence](./Video-5-Memo.md)

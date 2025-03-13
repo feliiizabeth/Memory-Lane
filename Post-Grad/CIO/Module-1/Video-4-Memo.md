@@ -2,7 +2,7 @@
 title: Disrupt or Be Disrupted
 ---
 
-[Home](app://obsidian.md/index.md) > [Post-Graduation](app://obsidian.md/index.md) > [Technology Leadership: Path to CIO](app://obsidian.md/index.md) > [Leveraging New Technology](app://obsidian.md/index.md) > *Disrupt or Be Disrupted*
+[Home](../../../index.md) > [Post-Graduation](../../index.md) > [Technology Leadership: Path to CIO](../index.md) > [Leveraging New Technology](./index.md) > *Disrupt or Be Disrupted*
 
 Video will discuss what it takes for tech leaders to be the **disrupter** and not the disruptee.
 
