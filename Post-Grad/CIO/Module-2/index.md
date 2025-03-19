@@ -18,6 +18,6 @@ title: Organizing for IT Success
 2. [Fully Centralized Models](./Video-2-Memo.md)
 3. [Decentralized IT Model](./Video-3-Memo.md)
 4. [Hybrid IT Model](./Video-4-Memo.md)
-5. A Practical Example: The Technology Council
+5. [A Practical Example: The Technology Council](./Video-5-Memo.md)
 
 ## Key Takeaways
