@@ -21,3 +21,10 @@ title: Organizing for IT Success
 5. [A Practical Example: The Technology Council](./Video-5-Memo.md)
 
 ## Key Takeaways
+
+- Organizing IT as a success factor.
+- Understanding employee expectations.
+- Identifying the different models of the IT function (i.e. centralized, decentralized, and hybrid).
+- Listing the pros and cons of each model.
+  - Accentuate the pros and be mindful of the cons.
+- Exploring the concept of a technology council.
