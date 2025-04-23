@@ -153,3 +153,19 @@ p:has(div.callout-header) {
   max-height: var(--max-width);
   opacity: 1;
 }
+
+// Add purple background to first row of a table
+table thead tr {
+  background-color: #aa4478;
+  color: #fff;
+}
+
+table > tr:first-child {
+  background-color: #aa4478;
+  color: #fff;
+}
+
+table tbody:first-child tr:first-child {
+  background-color: #aa4478;
+  color: #fff;
+}
