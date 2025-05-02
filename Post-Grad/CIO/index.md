@@ -17,4 +17,4 @@ title: "Technology Leadership: Path to CIO"
 3. [Enabling a Culture of Innovation](Module-3/index.md)
 4. [The Business Leader in the C-Suite](Module-4/index.md)
 5. [Digital Business Transformation](Module-5/index.md)
-6. [Entrepreneurship and "Intrapreneurship"]
+6. [Entrepreneurship and "Intrapreneurship"](Module-6/index.md)
