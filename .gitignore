@@ -1,5 +1,9 @@
 .obsidian
 **/**.DS_Store
 
-# Jekyll
+# Jekyll build output
 _site
+
+# Bundler (local Ruby gems & config)
+.bundle/
+vendor/
